@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! 🤗 I'm Pruthavirajsingh D, a passionate wanna-be developer 😆
 
 <!--
 **Pruthavirajsingh/Pruthavirajsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
