@@ -12,3 +12,5 @@ Here’s what’s in my toolkit:
 ☁️ Cloud: AWS, Azure
 
 ✉️ Reach me at mathsxpruthaviraj@gmail.com [I know it is way to unprofessional 🫣 ]
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pruthavirajsingh&locale=hi&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
