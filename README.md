@@ -5,7 +5,7 @@
 🛠️ Tech Stack
 Here’s what’s in my toolkit:
 
-🌐 Languages: JavaScript, Python, Java, C
+🌐 Languages: JavaScript, Python, Java, C, HTML & CSS
 ⚙️ Frameworks & Libraries: React, Node.js, Django
 🛢️ Databases: SQL, MongoDB
 🛠️ Tools: Git, VS Code
