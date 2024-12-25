@@ -51,30 +51,6 @@ Here’s what’s in my toolkit:
 </p>
 <hr>
 
-# Data for the table
-data = [
-    ["1,000", "10,000", "₹150,000", "₹4.5M", "₹54M"],
-    ["10,000", "100,000", "₹1.5M", "₹45M", "₹540M"],
-    ["100,000", "1,000,000", "₹15M", "₹450M", "₹5.4B"],
-    ["1 Million", "10,000,000", "₹150M", "₹4.5B", "₹54B"],
-    ["10 Million", "150,000,000", "₹1.5B", "₹45B", "₹540B"]
-]
 
-# Headers for the table
-headers = ["Volume", "Transactions/Day", "Daily Margin", "Monthly Revenue", "Yearly Revenue"]
 
-# Markdown file path
-file_path = "profitability_table.md"
-
-# Generate the markdown table
-with open(file_path, "w") as md_file:
-    # Write the headers
-    md_file.write("| " + " | ".join(headers) + " |\n")
-    md_file.write("|" + " --- |" * len(headers) + "\n")
-
-    # Write the rows
-    for row in data:
-        md_file.write("| " + " | ".join(row) + " |\n")
-
-print(f"Markdown table has been saved to {file_path}")
 
