@@ -1,4 +1,4 @@
-## Hey there! 🤗 I'm Pruthavirajsingh D, a passionate wanna-be developer 😆
+## Hey there! 🤗 I'm Pruthavirajsingh D, a developer 😆
 
 “Code is like humour. When you have to explain it, it’s bad.” – Cory House
 
